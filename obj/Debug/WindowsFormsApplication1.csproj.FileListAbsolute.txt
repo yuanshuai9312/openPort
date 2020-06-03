@@ -1,0 +1,10 @@
+D:\Download\端口检测\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Download\端口检测\bin\Debug\WindowsFormsApplication1.exe
+D:\Download\端口检测\bin\Debug\WindowsFormsApplication1.pdb
+D:\Download\端口检测\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\Download\端口检测\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Download\端口检测\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Download\端口检测\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\Download\端口检测\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\Download\端口检测\obj\Debug\WindowsFormsApplication1.exe
+D:\Download\端口检测\obj\Debug\WindowsFormsApplication1.pdb
